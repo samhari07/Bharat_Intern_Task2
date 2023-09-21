@@ -10,7 +10,7 @@ Created with 💜 by HARIGANESH M
 
 ## 📸 Screenshot
 
-![Netflix_Landing_Page]()
+![Netflix_Landing_Page](https://github.com/samhari07/Bharat_Intern_Task2/blob/main/Screenshot.png)
 
 
 <br>
